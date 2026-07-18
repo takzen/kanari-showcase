@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Kanari">
+  <rect width="64" height="64" rx="16" fill="#e8b21e"/>
+  <path d="M20 15 l3 7 4 -5 z" fill="#1b1a14"/>
+  <circle cx="27" cy="33" r="15" fill="#1b1a14"/>
+  <path d="M40 29 l14 -3 -8 9 z" fill="#1b1a14"/>
+  <path d="M22 49 l-2 6" stroke="#1b1a14" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M31 49 l1 6" stroke="#1b1a14" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M16 35 q10 9 20 2 q-5 12 -20 2 z" fill="#e8b21e"/>
+  <circle cx="32" cy="28" r="2.6" fill="#e8b21e"/>
+</svg>
