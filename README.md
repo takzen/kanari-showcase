@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  <img alt="status" src="https://img.shields.io/badge/status-private%20beta-e8b21e">
+  <img alt="status" src="https://img.shields.io/badge/status-live-2ea44f">
   <img alt="market" src="https://img.shields.io/badge/market-Poland%20%F0%9F%87%B5%F0%9F%87%B1-333">
   <img alt="engine" src="https://img.shields.io/badge/engine-Python%203.11%2B-3776AB">
   <img alt="dashboard" src="https://img.shields.io/badge/dashboard-Next.js%2016-000">
 </p>
 
 > **This is a public showcase.** The source code is private and proprietary — this repository
-> contains documentation and screenshots only.
+> contains documentation and screenshots only. The product is live and open for audits.
 
 ---
 
@@ -161,10 +161,10 @@ deterministic canary detector · YAML attack packs · self-contained HTML/PDF re
 
 ## Status
 
-Private beta. The engine, marketing site, audit dashboard, Polish + industry attack packs,
-single- and multi-turn probes, compliance mapping, OWASP LLM (2025) + Agentic (2026) mapping,
-board summary + remediation fix-list, HTML/PDF audit reports, retest certificate, CI gate and
-Guard continuous monitoring are built and working end-to-end against live models.
+**Live — v1.0, open for audits.** The engine, marketing site, audit dashboard, Polish + industry
+attack packs, single- and multi-turn probes, compliance mapping, OWASP LLM (2025) + Agentic (2026)
+mapping, board summary + remediation fix-list, HTML/PDF audit reports, retest certificate, CI gate
+and Guard continuous monitoring are built and working end-to-end against live models.
 
 ## Contact
 
