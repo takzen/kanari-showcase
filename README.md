@@ -51,32 +51,14 @@ OWASP AI security standards**, with a **board-level summary** and a **prioritize
 
 ---
 
-## Screenshots
-
-**Marketing site — [kanari.pl](https://kanari.pl)**
-
-![Kanari landing page](assets/landing.png)
-
-**Audit dashboard** — risk score, executive summary, severity breakdown, category & regulation
-coverage, **OWASP LLM (2025) + Agentic (2026)** tables, prioritized remediation, and per-attack
-transcripts.
-
-![Kanari audit dashboard](assets/dashboard.png)
-
----
-
 ## Sample deliverables
 
 An audit isn't a console dump — it's a set of **client-ready documents**. Below are real outputs
 generated for a fictional demo shop (all secrets are canary tokens).
 
-**Print-ready audit report (HTML → PDF)** — branded cover, then executive summary with regulation
-**and** OWASP coverage (LLM Top 10 2025 + Agentic Top 10 2026).
+**Executive summary, regulation & OWASP coverage report** (LLM Top 10 2025 + Agentic Top 10 2026):
 
-<p align="center">
-  <img src="assets/report.png" width="49%" alt="Audit report cover">
-  <img src="assets/report-owasp.png" width="49%" alt="Audit report — executive summary, regulation and OWASP coverage">
-</p>
+![Kanari audit report — OWASP and regulation coverage](assets/report-owasp.png)
 
 **Retest certificate** — a before/after delta with a `ZALICZONY` / `NIEZALICZONY` (PASS / FAIL)
 stamp, issued after the client fixes the findings and Kanari re-runs the battery.
@@ -182,8 +164,6 @@ Three ways to engage — a one-off audit, a full compliance engagement, or conti
 | **Snapshot** | One-off audit — full attack battery + Polish packs, online report + PDF with evidence, remediation list. | **4 900 zł** |
 | **Compliance** | Everything in Snapshot + retest & pass certificate + AI Act / RODO / KNF mapping + a findings walkthrough with your team. | **15 000 zł** |
 | **Guard** | Continuous monitoring — scheduled re-runs on the live bot, e-mail on any *new* vulnerability, run history, CI gate. | **1 500 zł / mo** |
-
-![Kanari packages one-pager](assets/oferta.png)
 
 <sub>Indicative pricing — the final quote depends on the size and risk profile of the system.</sub>
 
